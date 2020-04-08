@@ -10,7 +10,7 @@
   </properties>
   
   <build>
-  	<finalName>${project.name}-</finalName>
+  	<finalName>${project.name}</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
