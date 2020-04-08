@@ -33,7 +33,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>main.Runner</mainClass>
+							<mainClass>main.TerrariaClone</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>

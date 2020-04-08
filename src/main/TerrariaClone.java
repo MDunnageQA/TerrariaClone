@@ -1,3 +1,4 @@
+package main;
 /**
 
 TerrariaClone (working title) [Pre-alpha 1.3]

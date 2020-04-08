@@ -1,3 +1,4 @@
+package main;
 import java.awt.*;
 import java.awt.image.*;
 import java.io.*;

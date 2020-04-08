@@ -1,3 +1,4 @@
+package main;
 public class Chunk {
 
     int cx, cy;
